@@ -1,0 +1,807 @@
+fecha;descripcion;monto;tipo;categoria;cuenta;anio;mes;mes_nombre
+2018-01-01;Amazon;11,11;gasto;Shopping;Platinum Card;2018;1;January
+2018-01-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;1;January
+2018-01-02;Thai Restaurant;24,22;gasto;Restaurants;Silver Card;2018;1;January
+2018-01-03;Credit Card Payment;2298,09;ingreso;Credit Card Payment;Platinum Card;2018;1;January
+2018-01-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;1;January
+2018-01-05;American Tavern;25,85;gasto;Restaurants;Silver Card;2018;1;January
+2018-01-06;Hardware Store;18,45;gasto;Home Improvement;Silver Card;2018;1;January
+2018-01-08;Gas Company;45,0;gasto;Utilities;Checking;2018;1;January
+2018-01-08;Hardware Store;15,38;gasto;Home Improvement;Silver Card;2018;1;January
+2018-01-09;Spotify;10,69;gasto;Music;Platinum Card;2018;1;January
+2018-01-10;Phone Company;89,46;gasto;Mobile Phone;Checking;2018;1;January
+2018-01-11;Shell;34,87;gasto;Gas & Fuel;Platinum Card;2018;1;January
+2018-01-11;Grocery Store;43,54;gasto;Groceries;Platinum Card;2018;1;January
+2018-01-12;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;1;January
+2018-01-13;Pizza Place;32,91;gasto;Fast Food;Platinum Card;2018;1;January
+2018-01-13;Amazon;39,05;gasto;Shopping;Platinum Card;2018;1;January
+2018-01-15;Grocery Store;44,19;gasto;Groceries;Silver Card;2018;1;January
+2018-01-15;American Tavern;64,11;gasto;Restaurants;Silver Card;2018;1;January
+2018-01-16;City Water Charges;35,0;gasto;Utilities;Checking;2018;1;January
+2018-01-16;Power Company;60,0;gasto;Utilities;Checking;2018;1;January
+2018-01-19;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;1;January
+2018-01-20;Amazon;50,21;gasto;Shopping;Platinum Card;2018;1;January
+2018-01-22;Credit Card Payment;554,99;ingreso;Credit Card Payment;Platinum Card;2018;1;January
+2018-01-22;Credit Card Payment;309,81;ingreso;Credit Card Payment;Silver Card;2018;1;January
+2018-01-22;Credit Card Payment;554,99;gasto;Credit Card Payment;Checking;2018;1;January
+2018-01-22;Hardware Store;17,38;gasto;Home Improvement;Silver Card;2018;1;January
+2018-01-23;Credit Card Payment;309,81;gasto;Credit Card Payment;Checking;2018;1;January
+2018-01-24;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2018;1;January
+2018-01-25;Internet Service Provider;69,99;gasto;Internet;Checking;2018;1;January
+2018-01-29;Shell;30,42;gasto;Gas & Fuel;Silver Card;2018;1;January
+2018-01-29;Thai Restaurant;25,0;gasto;Restaurants;Silver Card;2018;1;January
+2018-01-29;Brunch Restaurant;17,62;gasto;Restaurants;Platinum Card;2018;1;January
+2018-02-01;Grocery Store;27,79;gasto;Groceries;Platinum Card;2018;2;February
+2018-02-01;Amazon;11,11;gasto;Shopping;Platinum Card;2018;2;February
+2018-02-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;2;February
+2018-02-02;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;2;February
+2018-02-03;Japanese Restaurant;57,02;gasto;Restaurants;Platinum Card;2018;2;February
+2018-02-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;2;February
+2018-02-05;Credit Card Payment;145,14;ingreso;Credit Card Payment;Platinum Card;2018;2;February
+2018-02-06;Credit Card Payment;154,13;ingreso;Credit Card Payment;Silver Card;2018;2;February
+2018-02-07;Credit Card Payment;154,13;gasto;Credit Card Payment;Checking;2018;2;February
+2018-02-07;Gas Company;65,0;gasto;Utilities;Checking;2018;2;February
+2018-02-09;Barbershop;30,0;gasto;Haircut;Platinum Card;2018;2;February
+2018-02-09;Spotify;10,69;gasto;Music;Platinum Card;2018;2;February
+2018-02-10;Bojangles;10,66;gasto;Fast Food;Platinum Card;2018;2;February
+2018-02-11;Fancy Restaurant;106,8;gasto;Restaurants;Platinum Card;2018;2;February
+2018-02-12;Shell;36,47;gasto;Gas & Fuel;Silver Card;2018;2;February
+2018-02-12;Phone Company;89,52;gasto;Mobile Phone;Checking;2018;2;February
+2018-02-14;Brewing Company;14,0;gasto;Alcohol & Bars;Silver Card;2018;2;February
+2018-02-15;American Tavern;10,0;gasto;Restaurants;Platinum Card;2018;2;February
+2018-02-15;Power Company;60,0;gasto;Utilities;Checking;2018;2;February
+2018-02-16;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;2;February
+2018-02-16;Brunch Restaurant;8,0;gasto;Restaurants;Silver Card;2018;2;February
+2018-02-16;City Water Charges;35,0;gasto;Utilities;Checking;2018;2;February
+2018-02-20;Grocery Store;35,95;gasto;Groceries;Silver Card;2018;2;February
+2018-02-20;Mexican Restaurant;23,51;gasto;Restaurants;Silver Card;2018;2;February
+2018-02-21;Starbucks;2,0;gasto;Coffee Shops;Platinum Card;2018;2;February
+2018-02-22;Starbucks;4,0;gasto;Coffee Shops;Silver Card;2018;2;February
+2018-02-26;Credit Card Payment;765,37;ingreso;Credit Card Payment;Platinum Card;2018;2;February
+2018-02-26;Credit Card Payment;156,11;ingreso;Credit Card Payment;Silver Card;2018;2;February
+2018-02-26;Credit Card Payment;765,37;gasto;Credit Card Payment;Checking;2018;2;February
+2018-02-26;Internet Service Provider;74,99;gasto;Internet;Checking;2018;2;February
+2018-02-26;American Tavern;85,52;gasto;Restaurants;Silver Card;2018;2;February
+2018-02-26;Gas Station;32,21;gasto;Gas & Fuel;Silver Card;2018;2;February
+2018-02-27;Credit Card Payment;156,11;gasto;Credit Card Payment;Checking;2018;2;February
+2018-03-01;Grocery Store;32,07;gasto;Groceries;Silver Card;2018;3;March
+2018-03-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;3;March
+2018-03-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;3;March
+2018-03-02;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;3;March
+2018-03-03;Grocery Store;23,74;gasto;Groceries;Silver Card;2018;3;March
+2018-03-04;Grocery Store;10,69;gasto;Groceries;Platinum Card;2018;3;March
+2018-03-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;3;March
+2018-03-04;BBQ Restaurant;42,24;gasto;Restaurants;Platinum Card;2018;3;March
+2018-03-05;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2018;3;March
+2018-03-05;Credit Card Payment;761,59;ingreso;Credit Card Payment;Silver Card;2018;3;March
+2018-03-05;Credit Card Payment;761,59;gasto;Credit Card Payment;Checking;2018;3;March
+2018-03-07;Starbucks;3,5;gasto;Coffee Shops;Platinum Card;2018;3;March
+2018-03-08;BP;34,9;gasto;Gas & Fuel;Platinum Card;2018;3;March
+2018-03-08;Gas Company;52,0;gasto;Utilities;Checking;2018;3;March
+2018-03-09;Grocery Store;20,72;gasto;Groceries;Platinum Card;2018;3;March
+2018-03-09;Grocery Store;5,09;gasto;Groceries;Platinum Card;2018;3;March
+2018-03-09;Spotify;10,69;gasto;Music;Platinum Card;2018;3;March
+2018-03-12;Grocery Store;19,35;gasto;Groceries;Platinum Card;2018;3;March
+2018-03-12;Phone Company;89,52;gasto;Mobile Phone;Checking;2018;3;March
+2018-03-13;Amazon;45,75;gasto;Shopping;Platinum Card;2018;3;March
+2018-03-14;Grocery Store;22,5;gasto;Groceries;Platinum Card;2018;3;March
+2018-03-14;Brunch Restaurant;8,49;gasto;Restaurants;Platinum Card;2018;3;March
+2018-03-15;Starbucks;3,5;gasto;Coffee Shops;Platinum Card;2018;3;March
+2018-03-15;Power Company;60,0;gasto;Utilities;Checking;2018;3;March
+2018-03-16;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;3;March
+2018-03-17;Brewing Company;19,5;gasto;Alcohol & Bars;Silver Card;2018;3;March
+2018-03-17;Pizza Place;23,34;gasto;Fast Food;Platinum Card;2018;3;March
+2018-03-19;Mediterranean Restaurant;36,48;gasto;Restaurants;Silver Card;2018;3;March
+2018-03-19;City Water Charges;35,0;gasto;Utilities;Checking;2018;3;March
+2018-03-20;Amazon;14,97;gasto;Shopping;Platinum Card;2018;3;March
+2018-03-22;BP;30,55;gasto;Gas & Fuel;Silver Card;2018;3;March
+2018-03-23;Credit Card Payment;559,91;ingreso;Credit Card Payment;Platinum Card;2018;3;March
+2018-03-23;Credit Card Payment;559,91;gasto;Credit Card Payment;Checking;2018;3;March
+2018-03-23;Grocery Store;11,76;gasto;Groceries;Silver Card;2018;3;March
+2018-03-26;Internet Service Provider;74,99;gasto;Internet;Checking;2018;3;March
+2018-03-28;Grocery Store;16,06;gasto;Groceries;Silver Card;2018;3;March
+2018-03-28;Pizza Place;24,98;gasto;Restaurants;Silver Card;2018;3;March
+2018-03-29;Steakhouse;17,64;gasto;Restaurants;Silver Card;2018;3;March
+2018-03-30;Grocery Store;9,09;gasto;Groceries;Silver Card;2018;3;March
+2018-03-30;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;3;March
+2018-03-31;Belgian Restaurant;38,32;gasto;Restaurants;Platinum Card;2018;3;March
+2018-03-31;Chili's;24,74;gasto;Restaurants;Platinum Card;2018;3;March
+2018-03-31;Greek Restaurant;41,16;gasto;Restaurants;Silver Card;2018;3;March
+2018-04-01;Grocery Store;80,79;gasto;Groceries;Platinum Card;2018;4;April
+2018-04-01;Brewing Company;59,48;gasto;Restaurants;Platinum Card;2018;4;April
+2018-04-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;4;April
+2018-04-02;Credit Card Payment;817,14;ingreso;Credit Card Payment;Silver Card;2018;4;April
+2018-04-02;Credit Card Payment;817,14;gasto;Credit Card Payment;Checking;2018;4;April
+2018-04-02;Grocery Store;82,36;gasto;Groceries;Platinum Card;2018;4;April
+2018-04-02;Hardware Store;13,89;gasto;Home Improvement;Platinum Card;2018;4;April
+2018-04-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;4;April
+2018-04-03;Amazon Video;6,41;gasto;Movies & DVDs;Platinum Card;2018;4;April
+2018-04-04;Credit Card Payment;363,08;ingreso;Credit Card Payment;Platinum Card;2018;4;April
+2018-04-04;Credit Card Payment;363,08;gasto;Credit Card Payment;Checking;2018;4;April
+2018-04-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;4;April
+2018-04-06;Chevron;4,58;gasto;Gas & Fuel;Platinum Card;2018;4;April
+2018-04-06;Tiny Deli;9,76;gasto;Restaurants;Platinum Card;2018;4;April
+2018-04-08;Irish Pub;22,0;gasto;Restaurants;Platinum Card;2018;4;April
+2018-04-09;Blue Sky Market;6,48;gasto;Groceries;Silver Card;2018;4;April
+2018-04-09;Spotify;10,69;gasto;Music;Platinum Card;2018;4;April
+2018-04-09;Gas Company;30,0;gasto;Utilities;Checking;2018;4;April
+2018-04-11;Phone Company;89,52;gasto;Mobile Phone;Checking;2018;4;April
+2018-04-12;Starbucks;7,0;gasto;Coffee Shops;Platinum Card;2018;4;April
+2018-04-12;Barbershop;30,0;gasto;Haircut;Platinum Card;2018;4;April
+2018-04-13;BP;37,98;gasto;Gas & Fuel;Platinum Card;2018;4;April
+2018-04-13;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;4;April
+2018-04-13;American Tavern;10,66;gasto;Restaurants;Platinum Card;2018;4;April
+2018-04-14;Hardware Store;11,61;gasto;Home Improvement;Platinum Card;2018;4;April
+2018-04-14;American Tavern;41,0;gasto;Restaurants;Platinum Card;2018;4;April
+2018-04-16;State Farm;75,0;gasto;Auto Insurance;Checking;2018;4;April
+2018-04-16;City Water Charges;35,0;gasto;Utilities;Checking;2018;4;April
+2018-04-18;Power Company;60,0;gasto;Utilities;Checking;2018;4;April
+2018-04-20;Thai Restaurant;24,22;gasto;Restaurants;Silver Card;2018;4;April
+2018-04-21;Grocery Store;4,32;gasto;Groceries;Silver Card;2018;4;April
+2018-04-21;American Tavern;35,15;gasto;Restaurants;Silver Card;2018;4;April
+2018-04-22;Grocery Store;21,32;gasto;Groceries;Platinum Card;2018;4;April
+2018-04-23;Hardware Store;42,7;gasto;Home Improvement;Silver Card;2018;4;April
+2018-04-24;Hardware Store;224,7;gasto;Home Improvement;Platinum Card;2018;4;April
+2018-04-24;Amazon;41,34;gasto;Shopping;Platinum Card;2018;4;April
+2018-04-25;Hardware Store;210,79;gasto;Home Improvement;Silver Card;2018;4;April
+2018-04-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;4;April
+2018-04-26;Credit Card Payment;769,72;ingreso;Credit Card Payment;Silver Card;2018;4;April
+2018-04-26;Credit Card Payment;1216,94;ingreso;Credit Card Payment;Platinum Card;2018;4;April
+2018-04-26;Credit Card Payment;1216,94;gasto;Credit Card Payment;Checking;2018;4;April
+2018-04-27;Credit Card Payment;769,72;gasto;Credit Card Payment;Checking;2018;4;April
+2018-04-27;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;4;April
+2018-04-28;Grocery Store;22,98;gasto;Groceries;Silver Card;2018;4;April
+2018-04-29;QuikTrip;39,0;gasto;Gas & Fuel;Platinum Card;2018;4;April
+2018-04-29;Grocery Store;51,05;gasto;Groceries;Platinum Card;2018;4;April
+2018-04-29;Hardware Store;68,47;gasto;Home Improvement;Platinum Card;2018;4;April
+2018-04-30;Grocery Store;5,09;gasto;Groceries;Platinum Card;2018;4;April
+2018-05-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;5;May
+2018-05-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;5;May
+2018-05-03;Amazon;49,72;gasto;Shopping;Platinum Card;2018;5;May
+2018-05-04;Grocery Store;42,23;gasto;Groceries;Platinum Card;2018;5;May
+2018-05-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;5;May
+2018-05-05;Bojangles;7,27;gasto;Fast Food;Platinum Card;2018;5;May
+2018-05-05;Pizza Place;20,52;gasto;Fast Food;Platinum Card;2018;5;May
+2018-05-06;Hardware Store;22,37;gasto;Home Improvement;Platinum Card;2018;5;May
+2018-05-06;Amazon;117,69;gasto;Shopping;Platinum Card;2018;5;May
+2018-05-09;Credit Card Payment;601,4;ingreso;Credit Card Payment;Platinum Card;2018;5;May
+2018-05-09;Credit Card Payment;601,4;gasto;Credit Card Payment;Checking;2018;5;May
+2018-05-09;Spotify;10,69;gasto;Music;Platinum Card;2018;5;May
+2018-05-09;Gas Company;30,0;gasto;Utilities;Checking;2018;5;May
+2018-05-10;Phone Company;111,18;gasto;Mobile Phone;Checking;2018;5;May
+2018-05-11;Grocery Store;57,32;gasto;Groceries;Platinum Card;2018;5;May
+2018-05-11;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;5;May
+2018-05-11;Mike's Construction Co.;8000,0;gasto;Home Improvement;Checking;2018;5;May
+2018-05-12;Liquor Store;27,77;gasto;Alcohol & Bars;Platinum Card;2018;5;May
+2018-05-12;Shell;33,3;gasto;Gas & Fuel;Platinum Card;2018;5;May
+2018-05-12;Fancy Restaurant;78,0;gasto;Restaurants;Platinum Card;2018;5;May
+2018-05-14;Grocery Store;67,63;gasto;Groceries;Silver Card;2018;5;May
+2018-05-15;Power Company;60,0;gasto;Utilities;Checking;2018;5;May
+2018-05-17;Barbershop;29,0;gasto;Haircut;Silver Card;2018;5;May
+2018-05-17;City Water Charges;35,0;gasto;Utilities;Checking;2018;5;May
+2018-05-18;State Farm;75,0;gasto;Auto Insurance;Checking;2018;5;May
+2018-05-18;Amazon;6,41;gasto;Shopping;Platinum Card;2018;5;May
+2018-05-19;Credit Card Payment;207,08;ingreso;Credit Card Payment;Platinum Card;2018;5;May
+2018-05-19;Grocery Store;31,0;gasto;Groceries;Silver Card;2018;5;May
+2018-05-19;Greek Restaurant;23,26;gasto;Restaurants;Silver Card;2018;5;May
+2018-05-21;Credit Card Payment;283,07;ingreso;Credit Card Payment;Silver Card;2018;5;May
+2018-05-21;Thai Restaurant;26,04;gasto;Restaurants;Silver Card;2018;5;May
+2018-05-21;Amazon;32,5;gasto;Shopping;Platinum Card;2018;5;May
+2018-05-22;Credit Card Payment;283,07;gasto;Credit Card Payment;Checking;2018;5;May
+2018-05-24;BP;39,44;gasto;Gas & Fuel;Silver Card;2018;5;May
+2018-05-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;5;May
+2018-05-25;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;5;May
+2018-05-28;Movie Theater;9,62;gasto;Entertainment;Silver Card;2018;5;May
+2018-05-28;Grocery Store;91,03;gasto;Groceries;Silver Card;2018;5;May
+2018-05-29;Movie Theater;20,0;gasto;Movies & DVDs;Silver Card;2018;5;May
+2018-05-29;Movie Theater;6,25;gasto;Movies & DVDs;Silver Card;2018;5;May
+2018-06-01;BP;38,63;gasto;Gas & Fuel;Platinum Card;2018;6;June
+2018-06-01;Grocery Store;6,11;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;6;June
+2018-06-02;Credit Card Payment;235,18;ingreso;Credit Card Payment;Silver Card;2018;6;June
+2018-06-02;Credit Card Payment;466,36;ingreso;Credit Card Payment;Platinum Card;2018;6;June
+2018-06-03;Italian Restaurant;65,81;gasto;Restaurants;Platinum Card;2018;6;June
+2018-06-04;Credit Card Payment;235,18;gasto;Credit Card Payment;Checking;2018;6;June
+2018-06-04;Grocery Store;24,12;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-04;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;6;June
+2018-06-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;6;June
+2018-06-06;Starbucks;4,0;gasto;Coffee Shops;Platinum Card;2018;6;June
+2018-06-08;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;6;June
+2018-06-08;Gas Company;30,0;gasto;Utilities;Checking;2018;6;June
+2018-06-09;Chick-Fil-A;16,18;gasto;Fast Food;Platinum Card;2018;6;June
+2018-06-09;Grocery Store;9,56;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-09;Spotify;10,69;gasto;Music;Platinum Card;2018;6;June
+2018-06-10;Grocery Store;46,01;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-12;Grocery Store;12,55;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-12;Phone Company;89,46;gasto;Mobile Phone;Checking;2018;6;June
+2018-06-14;Credit Card Payment;283,44;ingreso;Credit Card Payment;Platinum Card;2018;6;June
+2018-06-14;Credit Card Payment;283,44;gasto;Credit Card Payment;Checking;2018;6;June
+2018-08-11;Valero;33,66;gasto;Gas & Fuel;Platinum Card;2018;8;August
+2018-06-14;Grocery Store;7,02;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-15;Power Company;60,0;gasto;Utilities;Checking;2018;6;June
+2018-06-16;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2018;6;June
+2018-06-16;Pizza Place;22,66;gasto;Fast Food;Platinum Card;2018;6;June
+2018-06-16;Grocery Store;13,9;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-18;City Water Charges;35,0;gasto;Utilities;Checking;2018;6;June
+2018-06-19;Shell;38,52;gasto;Gas & Fuel;Platinum Card;2018;6;June
+2018-06-19;Grocery Store;2,69;gasto;Groceries;Platinum Card;2018;6;June
+2018-06-20;State Farm;75,0;gasto;Auto Insurance;Checking;2018;6;June
+2018-06-20;Credit Card Payment;89,45;ingreso;Credit Card Payment;Silver Card;2018;6;June
+2018-06-20;Barbershop;30,0;gasto;Haircut;Silver Card;2018;6;June
+2018-06-21;Credit Card Payment;89,45;gasto;Credit Card Payment;Checking;2018;6;June
+2018-06-22;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;6;June
+2018-06-23;Brunch Restaurant;8,5;gasto;Restaurants;Silver Card;2018;6;June
+2018-06-23;Amazon;74,97;gasto;Shopping;Platinum Card;2018;6;June
+2018-06-25;Credit Card Payment;942,76;ingreso;Credit Card Payment;Platinum Card;2018;6;June
+2018-06-25;Credit Card Payment;942,76;gasto;Credit Card Payment;Checking;2018;6;June
+2018-06-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;6;June
+2018-06-26;Grocery Store;9,62;gasto;Groceries;Silver Card;2018;6;June
+2018-06-27;Starbucks;3,5;gasto;Coffee Shops;Silver Card;2018;6;June
+2018-06-27;Pizza Place;22,66;gasto;Fast Food;Platinum Card;2018;6;June
+2018-06-28;Grocery Store;7,57;gasto;Groceries;Silver Card;2018;6;June
+2018-07-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;7;July
+2018-07-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;7;July
+2018-07-02;Movie Theater;25,0;gasto;Movies & DVDs;Silver Card;2018;7;July
+2018-07-02;American Tavern;36,44;gasto;Restaurants;Silver Card;2018;7;July
+2018-07-04;BP;34,48;gasto;Gas & Fuel;Silver Card;2018;7;July
+2018-07-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;7;July
+2018-07-05;Grocery Store;44,25;gasto;Groceries;Silver Card;2018;7;July
+2018-07-05;Amazon;212,32;gasto;Shopping;Platinum Card;2018;7;July
+2018-07-06;Amazon Video;6,41;gasto;Movies & DVDs;Platinum Card;2018;7;July
+2018-07-06;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;7;July
+2018-07-08;Credit Card Payment;259,87;ingreso;Credit Card Payment;Platinum Card;2018;7;July
+2018-07-09;Credit Card Payment;242,16;ingreso;Credit Card Payment;Silver Card;2018;7;July
+2018-07-09;Credit Card Payment;259,87;gasto;Credit Card Payment;Checking;2018;7;July
+2018-07-09;Spotify;10,69;gasto;Music;Platinum Card;2018;7;July
+2018-07-10;Credit Card Payment;242,16;gasto;Credit Card Payment;Checking;2018;7;July
+2018-07-10;Grocery Store;5,39;gasto;Groceries;Silver Card;2018;7;July
+2018-07-10;Gas Company;30,0;gasto;Utilities;Checking;2018;7;July
+2018-07-11;Phone Company;89,46;gasto;Mobile Phone;Checking;2018;7;July
+2018-07-14;Go Mart;33,51;gasto;Gas & Fuel;Silver Card;2018;7;July
+2018-07-15;Circle K;36,24;gasto;Gas & Fuel;Platinum Card;2018;7;July
+2018-07-17;Wendy's;15,23;gasto;Fast Food;Silver Card;2018;7;July
+2018-07-17;City Water Charges;35,0;gasto;Utilities;Checking;2018;7;July
+2018-07-17;Power Company;60,0;gasto;Utilities;Checking;2018;7;July
+2018-07-18;Irish Restaurant;28,54;gasto;Alcohol & Bars;Platinum Card;2018;7;July
+2018-07-18;State Farm;75,0;gasto;Auto Insurance;Checking;2018;7;July
+2018-07-20;Credit Card Payment;61,43;ingreso;Credit Card Payment;Silver Card;2018;7;July
+2018-07-20;Credit Card Payment;102,88;ingreso;Credit Card Payment;Platinum Card;2018;7;July
+2018-07-20;Credit Card Payment;102,88;gasto;Credit Card Payment;Checking;2018;7;July
+2018-07-20;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;7;July
+2018-07-21;Grocery Store;28,93;gasto;Groceries;Platinum Card;2018;7;July
+2018-07-21;Barbershop;30,0;gasto;Haircut;Platinum Card;2018;7;July
+2018-07-23;Credit Card Payment;61,43;gasto;Credit Card Payment;Checking;2018;7;July
+2018-07-23;Starbucks;9,58;gasto;Fast Food;Platinum Card;2018;7;July
+2018-07-24;American Tavern;26,59;gasto;Restaurants;Platinum Card;2018;7;July
+2018-07-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;7;July
+2018-07-26;Conoco;33,67;gasto;Gas & Fuel;Silver Card;2018;7;July
+2018-07-28;Grocery Store;7,61;gasto;Groceries;Silver Card;2018;7;July
+2018-07-30;American Tavern;34,38;gasto;Restaurants;Silver Card;2018;7;July
+2018-07-31;Brewing Company;6,6;gasto;Alcohol & Bars;Silver Card;2018;7;July
+2018-08-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;8;August
+2018-08-02;Credit Card Payment;816,27;ingreso;Credit Card Payment;Platinum Card;2018;8;August
+2018-08-02;Shell;40,44;gasto;Gas & Fuel;Silver Card;2018;8;August
+2018-08-02;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;8;August
+2018-08-03;Grocery Store;6,27;gasto;Groceries;Silver Card;2018;8;August
+2018-08-03;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;8;August
+2018-08-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;8;August
+2018-08-06;Amazon;76,47;gasto;Shopping;Platinum Card;2018;8;August
+2018-08-09;Spotify;10,69;gasto;Music;Platinum Card;2018;8;August
+2018-08-09;Gas Company;30,0;gasto;Utilities;Checking;2018;8;August
+2018-08-10;Phone Company;89,4;gasto;Mobile Phone;Checking;2018;8;August
+2018-08-11;Chick-Fil-A;13,67;gasto;Fast Food;Platinum Card;2018;8;August
+2018-08-15;Credit Card Payment;269,56;ingreso;Credit Card Payment;Silver Card;2018;8;August
+2018-08-15;Credit Card Payment;159,38;ingreso;Credit Card Payment;Platinum Card;2018;8;August
+2018-08-15;Shell;41,07;gasto;Gas & Fuel;Platinum Card;2018;8;August
+2018-08-15;Grocery Store;5,64;gasto;Groceries;Platinum Card;2018;8;August
+2018-08-15;Power Company;60,0;gasto;Utilities;Checking;2018;8;August
+2018-08-16;Credit Card Payment;269,56;gasto;Credit Card Payment;Checking;2018;8;August
+2018-08-16;City Water Charges;35,0;gasto;Utilities;Checking;2018;8;August
+2018-08-17;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;8;August
+2018-08-17;Amazon;14,98;gasto;Shopping;Platinum Card;2018;8;August
+2018-08-18;Amazon;23,47;gasto;Shopping;Platinum Card;2018;8;August
+2018-08-20;State Farm;75,0;gasto;Auto Insurance;Checking;2018;8;August
+2018-08-21;Credit Card Payment;34,18;ingreso;Credit Card Payment;Silver Card;2018;8;August
+2018-08-21;Credit Card Payment;99,76;ingreso;Credit Card Payment;Platinum Card;2018;8;August
+2018-08-21;Credit Card Payment;99,76;gasto;Credit Card Payment;Checking;2018;8;August
+2018-08-22;Credit Card Payment;34,18;gasto;Credit Card Payment;Checking;2018;8;August
+2018-08-24;American Tavern;42,31;gasto;Restaurants;Platinum Card;2018;8;August
+2018-08-27;Internet Service Provider;74,99;gasto;Internet;Checking;2018;8;August
+2018-08-30;Shell;35,65;gasto;Gas & Fuel;Platinum Card;2018;8;August
+2018-08-31;Grocery Store;11,64;gasto;Groceries;Platinum Card;2018;8;August
+2018-08-31;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;8;August
+2018-09-01;Brewing Company;47,4;gasto;Alcohol & Bars;Platinum Card;2018;9;September
+2018-09-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;9;September
+2018-09-02;Amazon;109,83;gasto;Shopping;Platinum Card;2018;9;September
+2018-09-04;Credit Card Payment;687,29;ingreso;Credit Card Payment;Platinum Card;2018;9;September
+2018-09-04;Credit Card Payment;687,29;gasto;Credit Card Payment;Checking;2018;9;September
+2018-09-04;Mortgage Payment;1247,44;gasto;Mortgage & Rent;Checking;2018;9;September
+2018-09-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;9;September
+2018-09-07;Gas Company;30,0;gasto;Utilities;Checking;2018;9;September
+2018-09-09;Brewing Company;18,0;gasto;Alcohol & Bars;Platinum Card;2018;9;September
+2018-09-09;Spotify;10,69;gasto;Music;Platinum Card;2018;9;September
+2018-09-11;BP;38,86;gasto;Gas & Fuel;Platinum Card;2018;9;September
+2018-09-11;Grocery Store;7,87;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-12;Grocery Store;47,16;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-12;Phone Company;89,4;gasto;Mobile Phone;Checking;2018;9;September
+2018-09-13;Grocery Store;5,64;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-14;Credit Card Payment;134,34;ingreso;Credit Card Payment;Platinum Card;2018;9;September
+2018-09-14;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;9;September
+2018-09-17;Grocery Store;10,17;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-17;Grocery Store;8,8;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-17;City Water Charges;35,0;gasto;Utilities;Checking;2018;9;September
+2018-09-18;Grocery Store;4,32;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-18;Power Company;60,0;gasto;Utilities;Checking;2018;9;September
+2018-09-19;State Farm;75,0;gasto;Auto Insurance;Checking;2018;9;September
+2018-09-19;Barbershop;30,0;gasto;Haircut;Platinum Card;2018;9;September
+2018-09-20;Amazon;47,38;gasto;Shopping;Platinum Card;2018;9;September
+2018-09-22;Hardware Store;69,4;gasto;Home Improvement;Platinum Card;2018;9;September
+2018-09-22;Hardware Store;6,83;gasto;Home Improvement;Platinum Card;2018;9;September
+2018-09-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;9;September
+2018-09-25;Sushi Restaurant;48,64;gasto;Restaurants;Silver Card;2018;9;September
+2018-09-26;Starbucks;5,0;gasto;Coffee Shops;Platinum Card;2018;9;September
+2018-09-26;Exxon;38,0;gasto;Gas & Fuel;Silver Card;2018;9;September
+2018-09-27;Valero;40,71;gasto;Gas & Fuel;Platinum Card;2018;9;September
+2018-09-28;Credit Card Payment;128,12;ingreso;Credit Card Payment;Silver Card;2018;9;September
+2018-09-28;Credit Card Payment;284,96;ingreso;Credit Card Payment;Platinum Card;2018;9;September
+2018-09-28;Credit Card Payment;284,96;gasto;Credit Card Payment;Checking;2018;9;September
+2018-09-28;Grocery Store;13,36;gasto;Groceries;Platinum Card;2018;9;September
+2018-09-28;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;9;September
+2018-09-29;Greek Restaurant;23,26;gasto;Restaurants;Platinum Card;2018;9;September
+2018-09-29;German Restaurant;46,7;gasto;Restaurants;Platinum Card;2018;9;September
+2018-10-01;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2018;10;October
+2018-10-01;Credit Card Payment;128,12;gasto;Credit Card Payment;Checking;2018;10;October
+2018-10-01;Grocery Store;15,66;gasto;Groceries;Platinum Card;2018;10;October
+2018-10-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;10;October
+2018-10-02;Credit Card Payment;124,03;ingreso;Credit Card Payment;Platinum Card;2018;10;October
+2018-10-02;Credit Card Payment;124,03;gasto;Credit Card Payment;Checking;2018;10;October
+2018-10-02;Mortgage Payment;1209,18;gasto;Mortgage & Rent;Checking;2018;10;October
+2018-10-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;10;October
+2018-10-06;American Tavern;27,0;gasto;Restaurants;Silver Card;2018;10;October
+2018-10-08;Shell;38,06;gasto;Gas & Fuel;Silver Card;2018;10;October
+2018-10-08;Hardware Store;80,65;gasto;Home Improvement;Silver Card;2018;10;October
+2018-10-08;Hardware Store;31,2;gasto;Home Improvement;Silver Card;2018;10;October
+2018-10-09;Spotify;10,69;gasto;Music;Platinum Card;2018;10;October
+2018-10-09;Amazon;19,98;gasto;Shopping;Platinum Card;2018;10;October
+2018-10-09;Gas Company;30,0;gasto;Utilities;Checking;2018;10;October
+2018-10-10;Grocery Store;53,68;gasto;Groceries;Silver Card;2018;10;October
+2018-10-11;Phone Company;89,4;gasto;Mobile Phone;Checking;2018;10;October
+2018-10-12;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;10;October
+2018-10-16;Power Company;60,0;gasto;Utilities;Checking;2018;10;October
+2018-10-17;City Water Charges;35,0;gasto;Utilities;Checking;2018;10;October
+2018-10-18;State Farm;75,0;gasto;Auto Insurance;Checking;2018;10;October
+2018-10-18;Grocery Store;33,55;gasto;Groceries;Platinum Card;2018;10;October
+2018-10-18;Hardware Store;45,24;gasto;Home Improvement;Platinum Card;2018;10;October
+2018-10-18;Brunch Restaurant;8,0;gasto;Restaurants;Platinum Card;2018;10;October
+2018-10-21;Credit Card Payment;544,37;ingreso;Credit Card Payment;Platinum Card;2018;10;October
+2018-10-22;Credit Card Payment;353,83;ingreso;Credit Card Payment;Silver Card;2018;10;October
+2018-10-22;Credit Card Payment;353,83;gasto;Credit Card Payment;Checking;2018;10;October
+2018-10-22;BP;34,66;gasto;Gas & Fuel;Platinum Card;2018;10;October
+2018-10-23;Grocery Store;7,57;gasto;Groceries;Platinum Card;2018;10;October
+2018-10-25;Internet Service Provider;74,99;gasto;Internet;Checking;2018;10;October
+2018-10-25;Amazon;29,98;gasto;Shopping;Platinum Card;2018;10;October
+2018-10-26;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;10;October
+2018-10-27;American Tavern;25,4;gasto;Restaurants;Silver Card;2018;10;October
+2018-10-28;Brewing Company;12,71;gasto;Alcohol & Bars;Platinum Card;2018;10;October
+2018-10-28;Seafood Restaurant;14,75;gasto;Food & Dining;Platinum Card;2018;10;October
+2018-10-28;Grocery Store;92,49;gasto;Groceries;Platinum Card;2018;10;October
+2018-10-28;Italian Restaurant;54,0;gasto;Restaurants;Platinum Card;2018;10;October
+2018-10-31;Grocery Store;5,64;gasto;Groceries;Platinum Card;2018;10;October
+2018-11-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;11;November
+2018-11-02;Credit Card Payment;262,51;ingreso;Credit Card Payment;Platinum Card;2018;11;November
+2018-11-02;Credit Card Payment;262,51;gasto;Credit Card Payment;Checking;2018;11;November
+2018-11-02;Mortgage Payment;1209,18;gasto;Mortgage & Rent;Checking;2018;11;November
+2018-11-03;Pizza Place;23,66;gasto;Fast Food;Platinum Card;2018;11;November
+2018-11-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;11;November
+2018-11-05;Shell;36,51;gasto;Gas & Fuel;Platinum Card;2018;11;November
+2018-11-06;Amazon;53,95;gasto;Shopping;Platinum Card;2018;11;November
+2018-11-06;Gas Company;30,0;gasto;Utilities;Checking;2018;11;November
+2018-11-08;Grocery Store;5,64;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-09;Spotify;10,69;gasto;Music;Platinum Card;2018;11;November
+2018-11-09;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;11;November
+2018-11-10;Brewing Company;27,0;gasto;Alcohol & Bars;Platinum Card;2018;11;November
+2018-11-10;Chick-Fil-A;14,19;gasto;Fast Food;Platinum Card;2018;11;November
+2018-11-10;Food Truck;24,4;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-12;Grocery Store;10,18;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-12;American Tavern;22,33;gasto;Restaurants;Silver Card;2018;11;November
+2018-11-13;Grocery Store;4,8;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-13;Grocery Store;37,43;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-13;Grocery Store;10,15;gasto;Groceries;Platinum Card;2018;11;November
+2018-11-13;Phone Company;89,54;gasto;Mobile Phone;Checking;2018;11;November
+2018-11-14;Power Company;60,0;gasto;Utilities;Checking;2018;11;November
+2018-11-16;City Water Charges;35,0;gasto;Utilities;Checking;2018;11;November
+2018-11-17;Brewing Company;22,8;gasto;Alcohol & Bars;Platinum Card;2018;11;November
+2018-11-17;Hardware Store;15,47;gasto;Home Improvement;Platinum Card;2018;11;November
+2018-11-17;Hardware Store;6,4;gasto;Home Improvement;Platinum Card;2018;11;November
+2018-11-17;Greek Restaurant;23,26;gasto;Restaurants;Platinum Card;2018;11;November
+2018-11-19;Brewing Company;20,0;gasto;Alcohol & Bars;Silver Card;2018;11;November
+2018-11-19;QuikTrip;29,15;gasto;Gas & Fuel;Silver Card;2018;11;November
+2018-11-19;Hardware Store;10,02;gasto;Home Improvement;Silver Card;2018;11;November
+2018-11-20;State Farm;75,0;gasto;Auto Insurance;Checking;2018;11;November
+2018-11-20;Credit Card Payment;421,96;ingreso;Credit Card Payment;Platinum Card;2018;11;November
+2018-11-21;Grocery Store;5,64;gasto;Groceries;Silver Card;2018;11;November
+2018-11-21;Hardware Store;37,41;gasto;Home Improvement;Platinum Card;2018;11;November
+2018-11-23;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;11;November
+2018-11-26;American Tavern;16,8;gasto;Alcohol & Bars;Silver Card;2018;11;November
+2018-11-26;Internet Service Provider;74,99;gasto;Internet;Checking;2018;11;November
+2018-11-27;Movie Theater;17,0;gasto;Movies & DVDs;Silver Card;2018;11;November
+2018-11-27;American Tavern;28,4;gasto;Restaurants;Silver Card;2018;11;November
+2018-11-29;Credit Card Payment;582,99;ingreso;Credit Card Payment;Silver Card;2018;11;November
+2018-11-29;Credit Card Payment;751,5;ingreso;Credit Card Payment;Platinum Card;2018;11;November
+2018-11-30;Credit Card Payment;582,99;gasto;Credit Card Payment;Checking;2018;11;November
+2018-11-30;Grocery Store;6,27;gasto;Groceries;Silver Card;2018;11;November
+2018-12-01;Grocery Store;5,64;gasto;Groceries;Silver Card;2018;12;December
+2018-12-01;Brunch Restaurant;8,0;gasto;Restaurants;Silver Card;2018;12;December
+2018-12-01;Amazon;13,13;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-03;BP;30,03;gasto;Gas & Fuel;Silver Card;2018;12;December
+2018-12-03;Grocery Store;148,15;gasto;Groceries;Silver Card;2018;12;December
+2018-12-03;Mortgage Payment;1209,18;gasto;Mortgage & Rent;Checking;2018;12;December
+2018-12-04;Starbucks;3,0;gasto;Coffee Shops;Silver Card;2018;12;December
+2018-12-04;Latin Restaurant;20,65;gasto;Fast Food;Platinum Card;2018;12;December
+2018-12-04;Netflix;11,76;gasto;Movies & DVDs;Platinum Card;2018;12;December
+2018-12-06;Grocery Store;21,38;gasto;Groceries;Platinum Card;2018;12;December
+2018-12-06;Grocery Store;13,48;gasto;Groceries;Platinum Card;2018;12;December
+2018-12-06;Gas Company;40,0;gasto;Utilities;Checking;2018;12;December
+2018-12-07;Barbershop;30,0;gasto;Haircut;Platinum Card;2018;12;December
+2018-12-07;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;12;December
+2018-12-08;Grocery Store;12,64;gasto;Groceries;Platinum Card;2018;12;December
+2018-12-09;Spotify;10,69;gasto;Music;Platinum Card;2018;12;December
+2018-12-11;Brunch Restaurant;10,29;gasto;Restaurants;Platinum Card;2018;12;December
+2018-12-12;Phone Company;89,54;gasto;Mobile Phone;Checking;2018;12;December
+2018-12-13;Thai Restaurant;27,0;gasto;Restaurants;Silver Card;2018;12;December
+2018-12-14;Grocery Store;21,39;gasto;Groceries;Silver Card;2018;12;December
+2018-12-14;Hardware Store;17,1;gasto;Home Improvement;Silver Card;2018;12;December
+2018-12-14;Power Company;60,0;gasto;Utilities;Checking;2018;12;December
+2018-12-17;American Tavern;63,0;gasto;Food & Dining;Silver Card;2018;12;December
+2018-12-17;BP;20,01;gasto;Gas & Fuel;Silver Card;2018;12;December
+2018-12-17;City Water Charges;35,0;gasto;Utilities;Checking;2018;12;December
+2018-12-18;Starbucks;3,0;gasto;Coffee Shops;Silver Card;2018;12;December
+2018-12-18;Credit Card Payment;311,02;ingreso;Credit Card Payment;Platinum Card;2018;12;December
+2018-12-18;Credit Card Payment;311,02;gasto;Credit Card Payment;Checking;2018;12;December
+2018-12-18;Fancy Restaurant;56,52;gasto;Restaurants;Silver Card;2018;12;December
+2018-12-18;Amazon;49,99;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-18;Amazon;41,72;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-18;Amazon;24,3;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-19;State Farm;75,0;gasto;Auto Insurance;Checking;2018;12;December
+2018-12-19;Amazon;43,01;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-20;Credit Card Payment;464,03;ingreso;Credit Card Payment;Silver Card;2018;12;December
+2018-12-20;Shell;30,38;gasto;Gas & Fuel;Silver Card;2018;12;December
+2018-12-21;Credit Card Payment;464,03;gasto;Credit Card Payment;Checking;2018;12;December
+2018-12-21;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2018;12;December
+2018-12-22;New York Deli;21,38;gasto;Fast Food;Platinum Card;2018;12;December
+2018-12-22;Hardware Store;22,14;gasto;Home Improvement;Platinum Card;2018;12;December
+2018-12-23;Hardware Store;28,0;gasto;Home Improvement;Platinum Card;2018;12;December
+2018-12-24;Hardware Store;38,4;gasto;Home Improvement;Platinum Card;2018;12;December
+2018-12-26;Chick-Fil-A;56,07;gasto;Fast Food;Platinum Card;2018;12;December
+2018-12-26;Shell;32,47;gasto;Gas & Fuel;Platinum Card;2018;12;December
+2018-12-26;Shell;7,48;gasto;Gas & Fuel;Platinum Card;2018;12;December
+2018-12-26;Internet Service Provider;75,99;gasto;Internet;Checking;2018;12;December
+2018-12-26;Amazon;44,99;gasto;Shopping;Platinum Card;2018;12;December
+2018-12-28;Brewing Company;12,0;gasto;Alcohol & Bars;Silver Card;2018;12;December
+2018-12-29;Brewing Company;14,0;gasto;Alcohol & Bars;Silver Card;2018;12;December
+2018-12-29;Credit Card Payment;860,05;ingreso;Credit Card Payment;Platinum Card;2018;12;December
+2018-12-29;Grocery Store;55,04;gasto;Groceries;Silver Card;2018;12;December
+2019-01-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;1;January
+2019-01-02;Credit Card Payment;499,6;gasto;Credit Card Payment;Checking;2019;1;January
+2019-01-03;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;1;January
+2019-01-03;Amazon;42,1;gasto;Shopping;Platinum Card;2019;1;January
+2019-01-04;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;1;January
+2019-01-05;American Tavern;23,49;gasto;Restaurants;Platinum Card;2019;1;January
+2019-01-08;Gas Company;45,0;gasto;Utilities;Checking;2019;1;January
+2019-01-09;Credit Card Payment;491,45;ingreso;Credit Card Payment;Platinum Card;2019;1;January
+2019-01-09;Credit Card Payment;491,45;gasto;Credit Card Payment;Checking;2019;1;January
+2019-01-09;Credit Card Payment;281,84;gasto;Credit Card Payment;Checking;2019;1;January
+2019-01-09;Spotify;10,69;gasto;Music;Platinum Card;2019;1;January
+2019-01-10;Grocery Store;58,79;gasto;Groceries;Silver Card;2019;1;January
+2019-01-10;Barbershop;30,0;gasto;Haircut;Silver Card;2019;1;January
+2019-01-10;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;1;January
+2019-01-14;Shell;28,92;gasto;Gas & Fuel;Silver Card;2019;1;January
+2019-01-15;Grocery Store;6,06;gasto;Groceries;Silver Card;2019;1;January
+2019-01-16;City Water Charges;35,0;gasto;Utilities;Checking;2019;1;January
+2019-01-16;Power Company;60,0;gasto;Utilities;Checking;2019;1;January
+2019-01-18;State Farm;75,0;gasto;Auto Insurance;Checking;2019;1;January
+2019-01-18;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;1;January
+2019-01-21;Credit Card Payment;277,99;ingreso;Credit Card Payment;Silver Card;2019;1;January
+2019-01-22;Credit Card Payment;277,99;gasto;Credit Card Payment;Checking;2019;1;January
+2019-01-24;Grocery Store;21,06;gasto;Groceries;Silver Card;2019;1;January
+2019-01-24;Amazon;11,7;gasto;Shopping;Platinum Card;2019;1;January
+2019-01-24;Amazon;4,21;gasto;Shopping;Platinum Card;2019;1;January
+2019-01-25;Internet Service Provider;75,0;gasto;Internet;Checking;2019;1;January
+2019-01-31;Credit Card Payment;1900,0;gasto;Credit Card Payment;Checking;2019;1;January
+2019-01-31;Shell;31,32;gasto;Gas & Fuel;Silver Card;2019;1;January
+2019-02-01;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;2;February
+2019-02-01;Roadside Diner;9,47;gasto;Restaurants;Silver Card;2019;2;February
+2019-02-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;2;February
+2019-02-04;Hardware Store;86,97;gasto;Home Improvement;Silver Card;2019;2;February
+2019-02-04;Netflix;11,76;gasto;Television;Platinum Card;2019;2;February
+2019-02-05;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;2;February
+2019-02-07;Gas Company;65,0;gasto;Utilities;Checking;2019;2;February
+2019-02-08;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2019;2;February
+2019-02-08;Thai Restaurant;27,47;gasto;Restaurants;Platinum Card;2019;2;February
+2019-02-09;Spotify;10,69;gasto;Music;Platinum Card;2019;2;February
+2019-02-11;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2019;2;February
+2019-02-11;Credit Card Payment;133,95;gasto;Credit Card Payment;Checking;2019;2;February
+2019-02-11;BP;24,01;gasto;Gas & Fuel;Platinum Card;2019;2;February
+2019-02-12;Grocery Store;30,54;gasto;Groceries;Platinum Card;2019;2;February
+2019-02-12;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;2;February
+2019-02-13;Grocery Store;8,21;gasto;Groceries;Platinum Card;2019;2;February
+2019-02-15;Credit Card Payment;207,47;ingreso;Credit Card Payment;Platinum Card;2019;2;February
+2019-02-15;Credit Card Payment;207,47;gasto;Credit Card Payment;Checking;2019;2;February
+2019-02-15;Grocery Store;4,59;gasto;Groceries;Platinum Card;2019;2;February
+2019-02-15;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;2;February
+2019-02-15;Power Company;60,0;gasto;Utilities;Checking;2019;2;February
+2019-02-16;Brewing Company;8,0;gasto;Alcohol & Bars;Platinum Card;2019;2;February
+2019-02-16;American Tavern;32,75;gasto;Restaurants;Platinum Card;2019;2;February
+2019-02-16;Amazon;37,45;gasto;Shopping;Platinum Card;2019;2;February
+2019-02-19;Credit Card Payment;574,84;gasto;Credit Card Payment;Checking;2019;2;February
+2019-02-19;City Water Charges;35,0;gasto;Utilities;Checking;2019;2;February
+2019-02-20;State Farm;75,0;gasto;Auto Insurance;Checking;2019;2;February
+2019-02-20;Credit Card Payment;292,54;ingreso;Credit Card Payment;Silver Card;2019;2;February
+2019-02-20;Barbershop;30,0;gasto;Haircut;Platinum Card;2019;2;February
+2019-02-21;Credit Card Payment;292,54;gasto;Credit Card Payment;Checking;2019;2;February
+2019-02-21;Grocery Store;46,96;gasto;Groceries;Silver Card;2019;2;February
+2019-02-25;BP;33,8;gasto;Gas & Fuel;Silver Card;2019;2;February
+2019-02-25;Internet Service Provider;75,0;gasto;Internet;Checking;2019;2;February
+2019-02-27;Roadside Diner;25,77;gasto;Restaurants;Silver Card;2019;2;February
+2019-02-28;Grocery Store;32,07;gasto;Groceries;Silver Card;2019;2;February
+2019-03-01;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;3;March
+2019-03-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;3;March
+2019-03-04;Grocery Store;92,04;gasto;Groceries;Silver Card;2019;3;March
+2019-03-04;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;3;March
+2019-03-04;Netflix;11,76;gasto;Television;Platinum Card;2019;3;March
+2019-03-05;Fancy Restaurant;7,0;gasto;Restaurants;Silver Card;2019;3;March
+2019-03-06;Credit Card Payment;491,86;gasto;Credit Card Payment;Checking;2019;3;March
+2019-03-08;BP;34,08;gasto;Gas & Fuel;Platinum Card;2019;3;March
+2019-03-08;Amazon;27,17;gasto;Shopping;Platinum Card;2019;3;March
+2019-03-08;Gas Company;49,0;gasto;Utilities;Checking;2019;3;March
+2019-03-09;Spotify;10,69;gasto;Music;Platinum Card;2019;3;March
+2019-03-12;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;3;March
+2019-03-12;Bakery Place;3,02;gasto;Restaurants;Platinum Card;2019;3;March
+2019-03-13;Credit Card Payment;532,86;ingreso;Credit Card Payment;Platinum Card;2019;3;March
+2019-03-13;Credit Card Payment;301,79;ingreso;Credit Card Payment;Silver Card;2019;3;March
+2019-03-14;Credit Card Payment;305,27;gasto;Credit Card Payment;Checking;2019;3;March
+2019-03-14;Credit Card Payment;301,79;gasto;Credit Card Payment;Checking;2019;3;March
+2019-03-14;Brunch Restaurant;8,0;gasto;Restaurants;Platinum Card;2019;3;March
+2019-03-15;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;3;March
+2019-03-15;Power Company;60,0;gasto;Utilities;Checking;2019;3;March
+2019-03-18;Best Buy;320,99;gasto;Electronics & Software;Platinum Card;2019;3;March
+2019-03-18;Grocery Store;16,23;gasto;Groceries;Platinum Card;2019;3;March
+2019-03-19;Amazon;13,84;gasto;Shopping;Platinum Card;2019;3;March
+2019-03-19;City Water Charges;35,0;gasto;Utilities;Checking;2019;3;March
+2019-03-20;State Farm;75,0;gasto;Auto Insurance;Checking;2019;3;March
+2019-03-22;BP;37,51;gasto;Gas & Fuel;Platinum Card;2019;3;March
+2019-03-23;Starbucks;5,2;gasto;Coffee Shops;Platinum Card;2019;3;March
+2019-03-25;Internet Service Provider;75,0;gasto;Internet;Checking;2019;3;March
+2019-03-26;Amazon;16,04;gasto;Shopping;Platinum Card;2019;3;March
+2019-03-27;Brewing Company;49,63;gasto;Alcohol & Bars;Platinum Card;2019;3;March
+2019-03-27;Grocery Store;4,46;gasto;Groceries;Platinum Card;2019;3;March
+2019-03-29;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;3;March
+2019-03-30;Starbucks;12,84;gasto;Coffee Shops;Platinum Card;2019;3;March
+2019-03-31;Credit Card Payment;957,6;ingreso;Credit Card Payment;Platinum Card;2019;3;March
+2019-04-01;Credit Card Payment;1552,65;gasto;Credit Card Payment;Checking;2019;4;April
+2019-04-01;Credit Card Payment;600,51;ingreso;Credit Card Payment;Platinum Card;2019;4;April
+2019-04-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;4;April
+2019-04-02;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;4;April
+2019-04-04;Grocery Store;5,64;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-04;Amazon;35,9;gasto;Shopping;Platinum Card;2019;4;April
+2019-04-04;Netflix;11,76;gasto;Television;Platinum Card;2019;4;April
+2019-04-06;Amazon;27,54;gasto;Shopping;Platinum Card;2019;4;April
+2019-04-08;Gas Company;30,0;gasto;Utilities;Checking;2019;4;April
+2019-04-09;Credit Card Payment;436,75;gasto;Credit Card Payment;Checking;2019;4;April
+2019-04-09;Grocery Store;10,7;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-09;Barbershop;30,0;gasto;Haircut;Platinum Card;2019;4;April
+2019-04-09;Spotify;10,69;gasto;Music;Platinum Card;2019;4;April
+2019-04-10;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;4;April
+2019-04-12;Best Buy;44,93;gasto;Electronics & Software;Silver Card;2019;4;April
+2019-04-12;Grocery Store;41,34;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-12;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;4;April
+2019-04-13;QuikTrip;38,94;gasto;Gas & Fuel;Platinum Card;2019;4;April
+2019-04-13;Grocery Store;16,87;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-13;Vietnamese Restaurant;20,64;gasto;Restaurants;Platinum Card;2019;4;April
+2019-04-15;Power Company;60,0;gasto;Utilities;Checking;2019;4;April
+2019-04-16;City Water Charges;35,0;gasto;Utilities;Checking;2019;4;April
+2019-04-18;State Farm;75,0;gasto;Auto Insurance;Checking;2019;4;April
+2019-04-18;Credit Card Payment;604,32;ingreso;Credit Card Payment;Silver Card;2019;4;April
+2019-04-18;Credit Card Payment;458,1;ingreso;Credit Card Payment;Platinum Card;2019;4;April
+2019-04-19;Credit Card Payment;604,32;gasto;Credit Card Payment;Checking;2019;4;April
+2019-04-19;Grocery Store;10,89;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-22;Brewing Company;14,4;gasto;Alcohol & Bars;Silver Card;2019;4;April
+2019-04-22;Greek Restaurant;64,52;gasto;Restaurants;Silver Card;2019;4;April
+2019-04-23;Hardware Store;29,56;gasto;Home Improvement;Silver Card;2019;4;April
+2019-04-25;Internet Service Provider;75,0;gasto;Internet;Checking;2019;4;April
+2019-04-26;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;4;April
+2019-04-27;Brewing Company;40,0;gasto;Alcohol & Bars;Platinum Card;2019;4;April
+2019-04-27;Credit Card Payment;268,96;ingreso;Credit Card Payment;Silver Card;2019;4;April
+2019-04-27;American Tavern;14,74;gasto;Restaurants;Silver Card;2019;4;April
+2019-04-29;Credit Card Payment;268,96;gasto;Credit Card Payment;Checking;2019;4;April
+2019-04-29;Grocery Store;5,64;gasto;Groceries;Platinum Card;2019;4;April
+2019-04-30;BP;39,08;gasto;Gas & Fuel;Platinum Card;2019;4;April
+2019-05-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;5;May
+2019-05-02;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;5;May
+2019-05-03;Credit Card Payment;758,07;gasto;Credit Card Payment;Checking;2019;5;May
+2019-05-04;Netflix;13,9;gasto;Television;Platinum Card;2019;5;May
+2019-05-06;Amazon;16,94;gasto;Shopping;Platinum Card;2019;5;May
+2019-05-07;Amazon;38,56;gasto;Shopping;Platinum Card;2019;5;May
+2019-05-09;Best Buy;331,69;gasto;Electronics & Software;Platinum Card;2019;5;May
+2019-05-09;Spotify;10,69;gasto;Music;Platinum Card;2019;5;May
+2019-05-09;Target;3,2;gasto;Shopping;Platinum Card;2019;5;May
+2019-05-09;Gas Company;30,0;gasto;Utilities;Checking;2019;5;May
+2019-05-10;Best Buy;21,39;gasto;Electronics & Software;Silver Card;2019;5;May
+2019-05-10;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;5;May
+2019-05-10;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;5;May
+2019-05-13;Credit Card Payment;480,88;gasto;Credit Card Payment;Checking;2019;5;May
+2019-05-13;QuikTrip;35,24;gasto;Gas & Fuel;Silver Card;2019;5;May
+2019-05-13;Fancy Restaurant;98,19;gasto;Restaurants;Silver Card;2019;5;May
+2019-05-13;Greek Restaurant;23,11;gasto;Restaurants;Silver Card;2019;5;May
+2019-05-14;Grocery Store;2,02;gasto;Groceries;Silver Card;2019;5;May
+2019-05-15;Power Company;60,0;gasto;Utilities;Checking;2019;5;May
+2019-05-17;Credit Card Payment;575,33;ingreso;Credit Card Payment;Platinum Card;2019;5;May
+2019-05-17;City Water Charges;35,0;gasto;Utilities;Checking;2019;5;May
+2019-05-20;State Farm;75,0;gasto;Auto Insurance;Checking;2019;5;May
+2019-05-20;Credit Card Payment;415,47;gasto;Credit Card Payment;Checking;2019;5;May
+2019-05-20;American Tavern;32,53;gasto;Restaurants;Silver Card;2019;5;May
+2019-05-24;Credit Card Payment;765,68;ingreso;Credit Card Payment;Silver Card;2019;5;May
+2019-05-24;Hardware Store;27,96;gasto;Home Improvement;Platinum Card;2019;5;May
+2019-05-24;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;5;May
+2019-05-24;Brunch Restaurant;8,0;gasto;Restaurants;Platinum Card;2019;5;May
+2019-05-25;QuikTrip;36,76;gasto;Gas & Fuel;Platinum Card;2019;5;May
+2019-05-25;Hardware Store;30,99;gasto;Home Improvement;Platinum Card;2019;5;May
+2019-05-27;Mexican Restaurant;34,33;gasto;Restaurants;Platinum Card;2019;5;May
+2019-05-28;Credit Card Payment;765,68;gasto;Credit Card Payment;Checking;2019;5;May
+2019-05-30;Internet Service Provider;75,0;gasto;Internet;Checking;2019;5;May
+2019-05-30;American Tavern;34,82;gasto;Restaurants;Platinum Card;2019;5;May
+2019-06-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;6;June
+2019-06-03;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;6;June
+2019-06-03;Credit Card Payment;260,95;ingreso;Credit Card Payment;Platinum Card;2019;6;June
+2019-06-03;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;6;June
+2019-06-04;Barbershop;30,0;gasto;Haircut;Platinum Card;2019;6;June
+2019-06-04;Netflix;13,9;gasto;Television;Platinum Card;2019;6;June
+2019-06-05;Grocery Store;23,0;gasto;Groceries;Platinum Card;2019;6;June
+2019-06-05;Mexican Restaurant;23,24;gasto;Restaurants;Platinum Card;2019;6;June
+2019-06-06;Starbucks;3,75;gasto;Coffee Shops;Platinum Card;2019;6;June
+2019-06-06;Grocery Store;5,64;gasto;Groceries;Platinum Card;2019;6;June
+2019-06-07;Credit Card Payment;458,56;gasto;Credit Card Payment;Checking;2019;6;June
+2019-06-07;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;6;June
+2019-06-07;Gas Company;30,0;gasto;Utilities;Checking;2019;6;June
+2019-06-09;Spotify;10,69;gasto;Music;Platinum Card;2019;6;June
+2019-06-12;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;6;June
+2019-06-13;Credit Card Payment;152,72;ingreso;Credit Card Payment;Platinum Card;2019;6;June
+2019-06-13;Credit Card Payment;152,72;gasto;Credit Card Payment;Checking;2019;6;June
+2019-06-14;Grocery Store;10,69;gasto;Groceries;Silver Card;2019;6;June
+2019-06-15;BP;33,16;gasto;Gas & Fuel;Silver Card;2019;6;June
+2019-06-17;City Water Charges;35,0;gasto;Utilities;Checking;2019;6;June
+2019-06-17;Power Company;60,0;gasto;Utilities;Checking;2019;6;June
+2019-06-18;Brewing Company;15,0;gasto;Alcohol & Bars;Silver Card;2019;6;June
+2019-06-18;Shell;41,83;gasto;Gas & Fuel;Silver Card;2019;6;June
+2019-06-19;State Farm;75,0;gasto;Auto Insurance;Checking;2019;6;June
+2019-06-20;Credit Card Payment;375,26;gasto;Credit Card Payment;Checking;2019;6;June
+2019-06-20;Mike's Construction Co.;9200,0;gasto;Home Improvement;Checking;2019;6;June
+2019-06-20;Credit Card Payment;100,68;ingreso;Credit Card Payment;Silver Card;2019;6;June
+2019-06-21;Credit Card Payment;100,68;gasto;Credit Card Payment;Checking;2019;6;June
+2019-06-21;Biweekly Paycheck;2000,0;ingreso;Paycheck;Checking;2019;6;June
+2019-06-24;Brewing Company;15,0;gasto;Alcohol & Bars;Silver Card;2019;6;June
+2019-06-28;BP;30,64;gasto;Gas & Fuel;Silver Card;2019;6;June
+2019-06-30;Internet Service Provider;75,0;gasto;Internet;Checking;2019;6;June
+2019-07-01;Starbucks;7,0;gasto;Coffee Shops;Silver Card;2019;7;July
+2019-07-01;Grocery Store;99,47;gasto;Groceries;Silver Card;2019;7;July
+2019-07-01;Hawaiian Grill;24,97;gasto;Restaurants;Silver Card;2019;7;July
+2019-07-01;Thai Restaurant;24,0;gasto;Restaurants;Silver Card;2019;7;July
+2019-07-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;7;July
+2019-07-02;Hardware Store;229,9;gasto;Home Improvement;Platinum Card;2019;7;July
+2019-07-02;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;7;July
+2019-07-04;Netflix;13,9;gasto;Television;Platinum Card;2019;7;July
+2019-07-05;Brewing Company;19,0;gasto;Alcohol & Bars;Silver Card;2019;7;July
+2019-07-05;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;7;July
+2019-07-06;Credit Card Payment;220,08;ingreso;Credit Card Payment;Silver Card;2019;7;July
+2019-07-06;Grocery Store;92,98;gasto;Groceries;Platinum Card;2019;7;July
+2019-07-06;Greek Restaurant;23,26;gasto;Restaurants;Platinum Card;2019;7;July
+2019-07-07;Hardware Store;103,14;gasto;Home Improvement;Platinum Card;2019;7;July
+2019-07-08;Credit Card Payment;305,28;gasto;Credit Card Payment;Checking;2019;7;July
+2019-07-08;Credit Card Payment;220,08;gasto;Credit Card Payment;Checking;2019;7;July
+2019-07-09;Credit Card Payment;549,72;ingreso;Credit Card Payment;Platinum Card;2019;7;July
+2019-07-09;Spotify;10,69;gasto;Music;Platinum Card;2019;7;July
+2019-07-10;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;7;July
+2019-07-10;Gas Company;30,0;gasto;Utilities;Checking;2019;7;July
+2019-07-15;Grocery Store;87,14;gasto;Groceries;Silver Card;2019;7;July
+2019-07-16;Amazon;89,99;gasto;Shopping;Platinum Card;2019;7;July
+2019-07-16;Power Company;60,0;gasto;Utilities;Checking;2019;7;July
+2019-07-17;City Water Charges;35,0;gasto;Utilities;Checking;2019;7;July
+2019-07-18;State Farm;75,0;gasto;Auto Insurance;Checking;2019;7;July
+2019-07-18;Credit Card Payment;814,5;gasto;Credit Card Payment;Checking;2019;7;July
+2019-07-18;BP;36,42;gasto;Gas & Fuel;Silver Card;2019;7;July
+2019-07-18;Grocery Store;29,83;gasto;Groceries;Platinum Card;2019;7;July
+2019-07-18;Brunch Restaurant;8,82;gasto;Restaurants;Platinum Card;2019;7;July
+2019-07-19;Credit Card Payment;115,52;ingreso;Credit Card Payment;Platinum Card;2019;7;July
+2019-07-19;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;7;July
+2019-07-19;Mexican Restaurant;28,0;gasto;Restaurants;Platinum Card;2019;7;July
+2019-07-22;Credit Card Payment;257,08;ingreso;Credit Card Payment;Silver Card;2019;7;July
+2019-07-22;Thai Restaurant;26,67;gasto;Restaurants;Silver Card;2019;7;July
+2019-07-23;Credit Card Payment;257,08;gasto;Credit Card Payment;Checking;2019;7;July
+2019-07-24;Starbucks;2,5;gasto;Coffee Shops;Silver Card;2019;7;July
+2019-07-27;Barbershop;30,0;gasto;Haircut;Silver Card;2019;7;July
+2019-07-28;Hardware Store;44,31;gasto;Home Improvement;Platinum Card;2019;7;July
+2019-07-29;Grocery Store;5,35;gasto;Groceries;Platinum Card;2019;7;July
+2019-07-29;Fancy Restaurant;44,92;gasto;Restaurants;Silver Card;2019;7;July
+2019-07-30;Grocery Store;15,77;gasto;Groceries;Platinum Card;2019;7;July
+2019-07-30;Internet Service Provider;75,0;gasto;Internet;Checking;2019;7;July
+2019-08-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;8;August
+2019-08-02;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;8;August
+2019-08-02;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;8;August
+2019-08-03;BP;36,36;gasto;Gas & Fuel;Platinum Card;2019;8;August
+2019-08-03;Grocery Store;3,96;gasto;Groceries;Platinum Card;2019;8;August
+2019-08-03;American Tavern;23,47;gasto;Restaurants;Platinum Card;2019;8;August
+2019-08-04;Netflix;13,9;gasto;Television;Platinum Card;2019;8;August
+2019-08-05;Brewing Company;18,0;gasto;Alcohol & Bars;Silver Card;2019;8;August
+2019-08-05;Credit Card Payment;349,28;ingreso;Credit Card Payment;Platinum Card;2019;8;August
+2019-08-05;Credit Card Payment;117,65;ingreso;Credit Card Payment;Silver Card;2019;8;August
+2019-08-06;Credit Card Payment;521,17;gasto;Credit Card Payment;Checking;2019;8;August
+2019-08-06;Credit Card Payment;117,65;gasto;Credit Card Payment;Checking;2019;8;August
+2019-08-06;Hardware Store;125,0;gasto;Home Improvement;Checking;2019;8;August
+2019-08-08;Grocery Store;11,72;gasto;Groceries;Silver Card;2019;8;August
+2019-08-09;Spotify;10,69;gasto;Music;Platinum Card;2019;8;August
+2019-08-09;Gas Company;30,0;gasto;Utilities;Checking;2019;8;August
+2019-08-12;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;8;August
+2019-08-12;Thai Restaurant;26,67;gasto;Restaurants;Silver Card;2019;8;August
+2019-08-14;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;8;August
+2019-08-15;Credit Card Payment;335,2;gasto;Credit Card Payment;Checking;2019;8;August
+2019-08-15;Power Company;60,0;gasto;Utilities;Checking;2019;8;August
+2019-08-16;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;8;August
+2019-08-16;City Water Charges;35,0;gasto;Utilities;Checking;2019;8;August
+2019-08-17;Credit Card Payment;87,17;ingreso;Credit Card Payment;Platinum Card;2019;8;August
+2019-08-17;Grocery Store;33,15;gasto;Groceries;Platinum Card;2019;8;August
+2019-08-17;Barbershop;19,0;gasto;Haircut;Platinum Card;2019;8;August
+2019-08-17;American Tavern;3,5;gasto;Restaurants;Platinum Card;2019;8;August
+2019-08-19;Credit Card Payment;1248,95;gasto;Credit Card Payment;Checking;2019;8;August
+2019-08-20;State Farm;75,0;gasto;Auto Insurance;Checking;2019;8;August
+2019-08-20;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;8;August
+2019-08-21;Shell;34,69;gasto;Gas & Fuel;Platinum Card;2019;8;August
+2019-08-23;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;8;August
+2019-08-25;Brunch Restaurant;39,43;gasto;Restaurants;Platinum Card;2019;8;August
+2019-08-26;Hardware Store;66,75;gasto;Home Improvement;Silver Card;2019;8;August
+2019-08-29;Starbucks;3,0;gasto;Coffee Shops;Platinum Card;2019;8;August
+2019-08-30;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;8;August
+2019-08-30;Internet Service Provider;75,0;gasto;Internet;Checking;2019;8;August
+2019-08-30;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;8;August
+2019-08-31;Hardware Store;68,04;gasto;Home Improvement;Platinum Card;2019;8;August
+2019-08-31;BBQ Restaurant;41,78;gasto;Restaurants;Silver Card;2019;8;August
+2019-09-01;Amazon;13,09;gasto;Shopping;Platinum Card;2019;9;September
+2019-09-03;Mortgage Payment;1100,0;gasto;Mortgage & Rent;Checking;2019;9;September
+2019-09-03;Fancy Restaurant;41,24;gasto;Restaurants;Silver Card;2019;9;September
+2019-09-04;Netflix;13,9;gasto;Television;Platinum Card;2019;9;September
+2019-09-05;Starbucks;3,75;gasto;Coffee Shops;Platinum Card;2019;9;September
+2019-09-06;Credit Card Payment;1390,37;ingreso;Credit Card Payment;Platinum Card;2019;9;September
+2019-09-06;Credit Card Payment;1390,37;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-06;Credit Card Payment;502,75;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-07;Brewing Company;12,87;gasto;Alcohol & Bars;Platinum Card;2019;9;September
+2019-09-08;Brewing Company;19,3;gasto;Alcohol & Bars;Platinum Card;2019;9;September
+2019-09-09;Shell;28,77;gasto;Gas & Fuel;Platinum Card;2019;9;September
+2019-09-09;Grocery Store;65,09;gasto;Groceries;Silver Card;2019;9;September
+2019-09-09;Hardware Store;26,25;gasto;Home Improvement;Silver Card;2019;9;September
+2019-09-09;Spotify;10,69;gasto;Music;Platinum Card;2019;9;September
+2019-09-09;Gas Company;30,0;gasto;Utilities;Checking;2019;9;September
+2019-09-11;Credit Card Payment;360,56;ingreso;Credit Card Payment;Silver Card;2019;9;September
+2019-09-11;Phone Company;65,0;gasto;Mobile Phone;Checking;2019;9;September
+2019-09-12;Credit Card Payment;360,56;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-13;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;9;September
+2019-09-13;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;9;September
+2019-09-14;Grocery Store;46,44;gasto;Groceries;Platinum Card;2019;9;September
+2019-09-15;Amazon;47,66;gasto;Shopping;Platinum Card;2019;9;September
+2019-09-16;Credit Card Payment;90,57;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-16;Credit Card Payment;90,57;ingreso;Credit Card Payment;Silver Card;2019;9;September
+2019-09-16;City Water Charges;35,0;gasto;Utilities;Checking;2019;9;September
+2019-09-17;Credit Card Payment;186,13;ingreso;Credit Card Payment;Platinum Card;2019;9;September
+2019-09-17;Power Company;60,0;gasto;Utilities;Checking;2019;9;September
+2019-09-18;State Farm;75,0;gasto;Auto Insurance;Checking;2019;9;September
+2019-09-18;Credit Card Payment;1606,46;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-19;Brewing Company;40,81;gasto;Alcohol & Bars;Platinum Card;2019;9;September
+2019-09-19;Starbucks;2,75;gasto;Coffee Shops;Platinum Card;2019;9;September
+2019-09-20;Credit Card Payment;9,43;ingreso;Credit Card Payment;Silver Card;2019;9;September
+2019-09-22;Seafood Restaurant;131,1;gasto;Restaurants;Platinum Card;2019;9;September
+2019-09-23;Credit Card Payment;9,43;gasto;Credit Card Payment;Checking;2019;9;September
+2019-09-23;Grocery Store;27,71;gasto;Groceries;Platinum Card;2019;9;September
+2019-09-23;Amazon;24,63;gasto;Shopping;Platinum Card;2019;9;September
+2019-09-27;Biweekly Paycheck;2250,0;ingreso;Paycheck;Checking;2019;9;September
+2019-09-28;BP;33,46;gasto;Gas & Fuel;Platinum Card;2019;9;September
+2019-09-28;Sheetz;4,27;gasto;Gas & Fuel;Platinum Card;2019;9;September
+2019-09-30;Starbucks;1,75;gasto;Coffee Shops;Platinum Card;2019;9;September
+2019-09-30;Internet Service Provider;75,0;gasto;Internet;Checking;2019;9;September
